@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+Escrevendo um codigo absorvido por uma outra branch.
+=======
 Teste par avaliar o fluxo de release pipeline.
+>>>>>>> b9eaa83f46067f78e0a125f2b03e310e1c03d62a
