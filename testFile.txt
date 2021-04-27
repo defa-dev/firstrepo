@@ -1,0 +1,1 @@
+Teste par avaliar o fluxo de release pipeline.
