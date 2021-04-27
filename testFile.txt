@@ -1,1 +1,1 @@
-Aqui insiro um código novo'
+Teste par avaliar o fluxo de release pipeline.
